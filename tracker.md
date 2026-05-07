@@ -17,16 +17,16 @@
 
 | # | Topic | Status | Date Started | Date Completed | Notes |
 |---|-------|--------|-------------|----------------|-------|
-| 01 | Internet | 🔄 In Progress | 2026-05-07 | — | Starting today |
+| 01 | Internet | ✅ | 2026-05-07 | 2026-05-07 | All subtopics done |
 | 01a | → How Internet Works | ✅ | 2026-05-07 | 2026-05-07 | |
 | 01b | → What is HTTP | ✅ | 2026-05-07 | 2026-05-07 | |
-| 01c | → Domain Names | 🔄 | — | — | Next session starts here |
-| 01d | → What is Hosting | ⏳ | — | — | |
-| 01e | → DNS and how it works | ⏳ | — | — | |
-| 01f | → Browsers and how they work | ⏳ | — | — | |
-| 02 | Version Control Systems | ⏳ | — | — | |
-| 02a | → Git | ⏳ | — | — | |
-| 02b | → Repo Hosting (GitHub/GitLab/Bitbucket) | ⏳ | — | — | |
+| 01c | → Domain Names | ✅ | 2026-05-07 | 2026-05-07 | |
+| 01d | → What is Hosting | ✅ | 2026-05-07 | 2026-05-07 | |
+| 01e | → DNS and how it works | ✅ | 2026-05-07 | 2026-05-07 | |
+| 01f | → Browsers and how they work | ✅ | 2026-05-07 | 2026-05-07 | |
+| 02 | Version Control Systems | ✅ | 2026-05-07 | 2026-05-07 | |
+| 02a | → Git | ✅ | 2026-05-07 | 2026-05-07 | User has strong existing knowledge |
+| 02b | → Repo Hosting (GitHub/GitLab/Bitbucket) | ✅ | 2026-05-07 | 2026-05-07 | |
 | 03 | Relational Databases | ⏳ | — | — | |
 | 04 | Learn about APIs | ⏳ | — | — | |
 | 04a | → REST | ⏳ | — | — | |
@@ -126,4 +126,4 @@
 
 | Date | Topics Covered | Notes |
 |------|----------------|-------|
-| 2026-05-07 | How Internet Works ✅, HTTP ✅ | Next: Domain Names (01c) |
+| 2026-05-07 | How Internet Works ✅, HTTP ✅, Domain Names ✅, Hosting ✅, DNS ✅, Browsers ✅ | Topic 01 Complete. Next: Version Control (02) |
