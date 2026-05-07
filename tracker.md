@@ -9,7 +9,7 @@
 
 ## Current Session
 - **Date:** 2026-05-07
-- **Status:** Starting fresh — Topic 01: Internet
+- **Status:** Next up — 04g: OpenAPI Spec
 
 ---
 
@@ -33,8 +33,8 @@
 | 04b | → JSON APIs | ✅ | 2026-05-07 | 2026-05-07 | |
 | 04c | → SOAP | ✅ | 2026-05-07 | 2026-05-07 | |
 | 04d | → gRPC | ✅ | 2026-05-07 | 2026-05-07 | |
-| 04e | → GraphQL | ⏳ | — | — | Next |
-| 04f | → HATEOAS | ⏳ | — | — | |
+| 04e | → GraphQL | ✅ | 2026-05-07 | 2026-05-07 | |
+| 04f | → HATEOAS | ✅ | 2026-05-07 | 2026-05-07 | |
 | 04g | → Open API Spec | ⏳ | — | — | |
 | 04h | → Authentication (JWT, OAuth, Basic, Token, Cookie, OpenID, SAML) | ⏳ | — | — | |
 | 05 | Caching | ⏳ | — | — | |
