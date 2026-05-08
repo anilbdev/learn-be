@@ -8,8 +8,8 @@
 ---
 
 ## Current Session
-- **Date:** 2026-05-07
-- **Status:** Next up — 04g: OpenAPI Spec
+- **Date:** 2026-05-08
+- **Status:** Next up — 04h: Authentication (JWT, OAuth, Basic, Token, Cookie, OpenID, SAML)
 
 ---
 
@@ -35,7 +35,7 @@
 | 04d | → gRPC | ✅ | 2026-05-07 | 2026-05-07 | |
 | 04e | → GraphQL | ✅ | 2026-05-07 | 2026-05-07 | |
 | 04f | → HATEOAS | ✅ | 2026-05-07 | 2026-05-07 | |
-| 04g | → Open API Spec | ⏳ | — | — | |
+| 04g | → Open API Spec | ✅ | 2026-05-08 | 2026-05-08 | |
 | 04h | → Authentication (JWT, OAuth, Basic, Token, Cookie, OpenID, SAML) | ⏳ | — | — | |
 | 05 | Caching | ⏳ | — | — | |
 | 05a | → Server Side Caching | ⏳ | — | — | |
