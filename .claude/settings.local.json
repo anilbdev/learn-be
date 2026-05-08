@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(mkdir -p \"C:\\\\IBM\\\\Learning\\\\BE\\\\01-Internet\\\\01c-Domain-Names\")",
-      "Bash(mkdir -p \"C:\\\\IBM\\\\Learning\\\\BE\\\\01-Internet\\\\01d-Hosting\")"
-    ]
-  }
-}
