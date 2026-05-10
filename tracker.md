@@ -8,8 +8,8 @@
 ---
 
 ## Current Session
-- **Date:** 2026-05-08
-- **Status:** Next up — 04h: Authentication (JWT, OAuth, Basic, Token, Cookie, OpenID, SAML)
+- **Date:** 2026-05-09
+- **Status:** Next up — 05: Caching (Server Side, Client Side, CDN, Redis, Memcached)
 
 ---
 
@@ -28,7 +28,7 @@
 | 02a | → Git | ✅ | 2026-05-07 | 2026-05-07 | User has strong existing knowledge |
 | 02b | → Repo Hosting (GitHub/GitLab/Bitbucket) | ✅ | 2026-05-07 | 2026-05-07 | |
 | 03 | Relational Databases | ✅ | 2026-05-07 | 2026-05-07 | |
-| 04 | Learn about APIs | 🔄 In Progress | 2026-05-07 | — | |
+| 04 | Learn about APIs | ✅ | 2026-05-07 | 2026-05-09 | |
 | 04a | → REST | ✅ | 2026-05-07 | 2026-05-07 | |
 | 04b | → JSON APIs | ✅ | 2026-05-07 | 2026-05-07 | |
 | 04c | → SOAP | ✅ | 2026-05-07 | 2026-05-07 | |
@@ -36,34 +36,34 @@
 | 04e | → GraphQL | ✅ | 2026-05-07 | 2026-05-07 | |
 | 04f | → HATEOAS | ✅ | 2026-05-07 | 2026-05-07 | |
 | 04g | → Open API Spec | ✅ | 2026-05-08 | 2026-05-08 | |
-| 04h | → Authentication (JWT, OAuth, Basic, Token, Cookie, OpenID, SAML) | ⏳ | — | — | |
-| 05 | Caching | ⏳ | — | — | |
-| 05a | → Server Side Caching | ⏳ | — | — | |
-| 05b | → Client Side Caching | ⏳ | — | — | |
-| 05c | → CDN | ⏳ | — | — | |
-| 05d | → Redis & Memcached | ⏳ | — | — | |
-| 06 | Web Security | ⏳ | — | — | |
-| 06a | → HTTPS | ⏳ | — | — | |
-| 06b | → CORS | ⏳ | — | — | |
-| 06c | → SSL/TLS | ⏳ | — | — | |
-| 06d | → CSP | ⏳ | — | — | |
-| 06e | → OWASP Top 10 | ⏳ | — | — | |
-| 06f | → API Security Best Practices | ⏳ | — | — | |
-| 06g | → Hashing Algorithms (MD5, SHA, scrypt, bcrypt) | ⏳ | — | — | |
-| 07 | Testing | ⏳ | — | — | |
-| 07a | → Unit Testing | ⏳ | — | — | |
-| 07b | → Integration Testing | ⏳ | — | — | |
-| 07c | → Functional Testing | ⏳ | — | — | |
-| 08 | CI/CD | ⏳ | — | — | |
-| 09 | More about Databases | ⏳ | — | — | |
-| 09a | → ORMs | ⏳ | — | — | |
-| 09b | → ACID | ⏳ | — | — | |
-| 09c | → Transactions | ⏳ | — | — | |
-| 09d | → N+1 Problem | ⏳ | — | — | |
-| 09e | → Normalization | ⏳ | — | — | |
-| 09f | → Failure Modes | ⏳ | — | — | |
-| 09g | → Profiling Performance | ⏳ | — | — | |
-| 09h | → Migrations | ⏳ | — | — | |
+| 04h | → Authentication (JWT, OAuth, Basic, Token, Cookie, OpenID, SAML) | ✅ | 2026-05-09 | 2026-05-09 | |
+| 05 | Caching | ✅ | 2026-05-09 | 2026-05-09 | All subtopics done |
+| 05a | → Server Side Caching | ✅ | 2026-05-09 | 2026-05-09 | |
+| 05b | → Client Side Caching | ✅ | 2026-05-09 | 2026-05-09 | |
+| 05c | → CDN | ✅ | 2026-05-09 | 2026-05-09 | |
+| 05d | → Redis & Memcached | ✅ | 2026-05-09 | 2026-05-09 | |
+| 06 | Web Security | ✅ | 2026-05-09 | 2026-05-09 | All subtopics done |
+| 06a | → HTTPS | ✅ | 2026-05-09 | 2026-05-09 | |
+| 06b | → CORS | ✅ | 2026-05-09 | 2026-05-09 | |
+| 06c | → SSL/TLS | ✅ | 2026-05-09 | 2026-05-09 | |
+| 06d | → CSP | ✅ | 2026-05-09 | 2026-05-09 | |
+| 06e | → OWASP Top 10 | ✅ | 2026-05-09 | 2026-05-09 | |
+| 06f | → API Security Best Practices | ✅ | 2026-05-09 | 2026-05-09 | |
+| 06g | → Hashing Algorithms (MD5, SHA, scrypt, bcrypt) | ✅ | 2026-05-09 | 2026-05-09 | |
+| 07 | Testing | ✅ | 2026-05-10 | 2026-05-10 | All subtopics done |
+| 07a | → Unit Testing | ✅ | 2026-05-10 | 2026-05-10 | |
+| 07b | → Integration Testing | ✅ | 2026-05-10 | 2026-05-10 | |
+| 07c | → Functional Testing | ✅ | 2026-05-10 | 2026-05-10 | |
+| 08 | CI/CD | ✅ | 2026-05-10 | 2026-05-10 | All subtopics done |
+| 09 | More about Databases | ✅ | 2026-05-10 | 2026-05-10 | All subtopics done |
+| 09a | → ORMs | ✅ | 2026-05-10 | 2026-05-10 | |
+| 09b | → ACID | ✅ | 2026-05-10 | 2026-05-10 | |
+| 09c | → Transactions | ✅ | 2026-05-10 | 2026-05-10 | |
+| 09d | → N+1 Problem | ✅ | 2026-05-10 | 2026-05-10 | |
+| 09e | → Normalization | ✅ | 2026-05-10 | 2026-05-10 | |
+| 09f | → Failure Modes | ✅ | 2026-05-10 | 2026-05-10 | |
+| 09g | → Profiling Performance | ✅ | 2026-05-10 | 2026-05-10 | |
+| 09h | → Migrations | ✅ | 2026-05-10 | 2026-05-10 | |
 | 10 | Scaling Databases | ⏳ | — | — | |
 | 10a | → Database Indexes | ⏳ | — | — | |
 | 10b | → Data Replication | ⏳ | — | — | |

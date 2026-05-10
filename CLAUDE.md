@@ -47,7 +47,14 @@ Reference file: `backend.pdf` in this directory.
 - Status: ⏳ Not Started | 🔄 In Progress | ✅ Completed
 - Note the date completed
 
-### 6. File Creation Per Subtopic
+### 6. Notes & Tracker — End of Every Topic (mandatory)
+After completing each topic (all subtopics done), you MUST:
+1. **Ask the user:** "Topic X is complete. Want me to create the revision notes and update the tracker?"
+2. **If yes (or no objection):** Create all subtopic notes files AND update tracker.md — both without fail
+3. **Do not skip either step** — notes and tracker update always go together
+4. Never assume notes were created in a previous session without checking the folder
+
+### 7. File Creation Per Subtopic (called from rule 6 above)
 For every subtopic covered, create:
 
 **Folder structure:**
@@ -68,10 +75,10 @@ TopicNumber-TopicName/
 - Print-friendly: light background compatible, no dark theme elements
 - User can print-to-PDF from VS Code preview or browser
 
-### 7. Interview Questions
+### 8. Interview Questions
 - Always end every subtopic with 3-5 probable interview questions + brief model answers
 
-### 8. Clarification First
+### 9. Clarification First
 - If the user's question is ambiguous, ask one clarifying question before answering
 
 ---
