@@ -8,8 +8,8 @@
 ---
 
 ## Current Session
-- **Date:** 2026-05-11
-- **Status:** Next up — 15: Search Engines (Elasticsearch, Solr) — stopped mid-topic, resume from the beginning of 15
+- **Date:** 2026-05-12
+- **Status:** Next up — 16: Message Brokers (RabbitMQ, Kafka)
 
 ---
 
@@ -91,9 +91,9 @@
 | 14b | → Apache | ✅ | 2026-05-12 | 2026-05-12 | |
 | 14c | → Caddy | ✅ | 2026-05-12 | 2026-05-12 | |
 | 14d | → MS IIS | ✅ | 2026-05-12 | 2026-05-12 | |
-| 15 | Search Engines | ⏳ | — | — | |
-| 15a | → Elasticsearch | ⏳ | — | — | |
-| 15b | → Solr | ⏳ | — | — | |
+| 15 | Search Engines | ✅ | 2026-05-12 | 2026-05-12 | All subtopics done |
+| 15a | → Elasticsearch | ✅ | 2026-05-12 | 2026-05-12 | |
+| 15b | → Solr | ✅ | 2026-05-12 | 2026-05-12 | |
 | 16 | Message Brokers | ⏳ | — | — | |
 | 16a | → RabbitMQ | ⏳ | — | — | |
 | 16b | → Kafka | ⏳ | — | — | |
