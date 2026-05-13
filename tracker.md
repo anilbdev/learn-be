@@ -8,8 +8,8 @@
 ---
 
 ## Current Session
-- **Date:** 2026-05-12
-- **Status:** Next up — 16: Message Brokers (RabbitMQ, Kafka)
+- **Date:** 2026-05-13
+- **Status:** 19 Not Started — Next up: 19 GraphQL
 
 ---
 
@@ -94,21 +94,21 @@
 | 15 | Search Engines | ✅ | 2026-05-12 | 2026-05-12 | All subtopics done |
 | 15a | → Elasticsearch | ✅ | 2026-05-12 | 2026-05-12 | |
 | 15b | → Solr | ✅ | 2026-05-12 | 2026-05-12 | |
-| 16 | Message Brokers | ⏳ | — | — | |
-| 16a | → RabbitMQ | ⏳ | — | — | |
-| 16b | → Kafka | ⏳ | — | — | |
-| 17 | NoSQL Databases | ⏳ | — | — | |
-| 17a | → Document DBs (MongoDB, CouchDB) | ⏳ | — | — | |
-| 17b | → Key-Value (Redis, DynamoDB) | ⏳ | — | — | |
-| 17c | → Realtime (Firebase, RethinkDB) | ⏳ | — | — | |
-| 17d | → Time Series (InfluxDB, TimeScale) | ⏳ | — | — | |
-| 17e | → Column DBs (Cassandra, Base) | ⏳ | — | — | |
-| 17f | → Graph DBs (Neo4j, AWS Neptune) | ⏳ | — | — | |
-| 18 | Real-Time Data | ⏳ | — | — | |
-| 18a | → WebSockets | ⏳ | — | — | |
-| 18b | → Server Sent Events (SSE) | ⏳ | — | — | |
-| 18c | → Long Polling | ⏳ | — | — | |
-| 18d | → Short Polling | ⏳ | — | — | |
+| 16 | Message Brokers | ✅ | 2026-05-12 | 2026-05-12 | All subtopics done |
+| 16a | → RabbitMQ | ✅ | 2026-05-12 | 2026-05-12 | |
+| 16b | → Kafka | ✅ | 2026-05-12 | 2026-05-12 | |
+| 17 | NoSQL Databases | ✅ | 2026-05-13 | 2026-05-13 | All subtopics done |
+| 17a | → Document DBs (MongoDB, CouchDB) | ✅ | 2026-05-13 | 2026-05-13 | |
+| 17b | → Key-Value (Redis, DynamoDB) | ✅ | 2026-05-13 | 2026-05-13 | |
+| 17c | → Realtime (Firebase, RethinkDB) | ✅ | 2026-05-13 | 2026-05-13 | |
+| 17d | → Time Series (InfluxDB, TimeScale) | ✅ | 2026-05-13 | 2026-05-13 | |
+| 17e | → Column DBs (Cassandra, HBase) | ✅ | 2026-05-13 | 2026-05-13 | |
+| 17f | → Graph DBs (Neo4j, AWS Neptune) | ✅ | 2026-05-13 | 2026-05-13 | |
+| 18 | Real-Time Data | ✅ | 2026-05-13 | 2026-05-13 | All subtopics done |
+| 18a | → WebSockets | ✅ | 2026-05-13 | 2026-05-13 | |
+| 18b | → Server Sent Events (SSE) | ✅ | 2026-05-13 | 2026-05-13 | |
+| 18c | → Long Polling | ✅ | 2026-05-13 | 2026-05-13 | |
+| 18d | → Short Polling | ✅ | 2026-05-13 | 2026-05-13 | |
 | 19 | GraphQL | ⏳ | — | — | |
 | 20 | Building For Scale | ⏳ | — | — | |
 | 20a | → Graceful Degradation | ⏳ | — | — | |
